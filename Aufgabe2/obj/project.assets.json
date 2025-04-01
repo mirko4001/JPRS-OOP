@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Schueler-IT\\Desktop\\KW-14\\JPRS-OOP\\OOPAufgaben\\Aufgabe1.csproj",
-      "projectName": "Aufgabe1",
-      "projectPath": "C:\\Users\\Schueler-IT\\Desktop\\KW-14\\JPRS-OOP\\OOPAufgaben\\Aufgabe1.csproj",
+      "projectUniqueName": "C:\\Users\\Schueler-IT\\Desktop\\KW-14\\JPRS-OOP\\Aufgabe2\\Aufgabe2.csproj",
+      "projectName": "Aufgabe2",
+      "projectPath": "C:\\Users\\Schueler-IT\\Desktop\\KW-14\\JPRS-OOP\\Aufgabe2\\Aufgabe2.csproj",
       "packagesPath": "C:\\Users\\Schueler-IT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Schueler-IT\\Desktop\\KW-14\\JPRS-OOP\\OOPAufgaben\\obj\\",
+      "outputPath": "C:\\Users\\Schueler-IT\\Desktop\\KW-14\\JPRS-OOP\\Aufgabe2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

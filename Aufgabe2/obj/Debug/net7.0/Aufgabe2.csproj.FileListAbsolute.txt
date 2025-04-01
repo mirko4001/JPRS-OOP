@@ -1,0 +1,15 @@
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\bin\Debug\net7.0\Aufgabe2.exe
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\bin\Debug\net7.0\Aufgabe2.deps.json
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\bin\Debug\net7.0\Aufgabe2.runtimeconfig.json
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\bin\Debug\net7.0\Aufgabe2.dll
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\bin\Debug\net7.0\Aufgabe2.pdb
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.csproj.AssemblyReference.cache
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.AssemblyInfo.cs
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.dll
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\refint\Aufgabe2.dll
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.pdb
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\Aufgabe2.genruntimeconfig.cache
+C:\Users\Schueler-IT\Desktop\KW-14\JPRS-OOP\Aufgabe2\obj\Debug\net7.0\ref\Aufgabe2.dll
